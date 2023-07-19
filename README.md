@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on **Druve**
-- 🌱 I’m currently learning Python, Go
+- 🌱 I’m currently learning Python, Rust
 - 💬 Ask me about Javascript (NodeJS)
 
 
